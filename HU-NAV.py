@@ -105,17 +105,3 @@ show_graph_button.pack(side=TOP, padx=5, pady=5)
 root.mainloop()
 
 
-data_set_complete = ['W-244','W-243',20],['W-243','W-242',39],['N-219','N-220',10],['N-220','C-200',32],['N-220','Courtyard Stairs',153],['W-242','Vending Machine Stairs',122],['W-234','Courtyard Lifts',17],['W-242','Courtyard Lifts',75],['C-200','Reception Lifts',18],['Courtyard Lifts','Courtyard Stairs',37],['E-220','Vending Machine Stairs',38],['C-200','Courtyard Stairs',133],['Courtyard Stairs','Vending Machine Stairs',142],['C-007','Reception Lifts',181],['Reception Stairs','C-001',102],['Reception Stairs','E-002',147],['W-100','W-110',22],  ['Reception Lifts','Entrance Stairs',102], ['Courtyard Stairs','Courtyard Lifts',35],['Courtyard Stairs','W-118',189],['Courtyard Stairs','W-111',189],  ['W-118','W-110',191], ['W-111','W-110',191],['W-118','W-100',189],['W-111','W-100',189],['E-101','Vending Machine Stairs',260],['E-121','Amphi Stairs',86],['W-121','W-118',10],['W-114','W-111',10],['W-118','W-111',18],['E-101','Ramp',48 ], ['C-109','E-101',244], ['W-118','C-109',144],['W-110','Courtyard Stairs',50],['W-100','Courtyard Stairs',48],['C-109','Courtyard Stairs',61],['C-109','Courtyard Lifts',96],['W-118','Courtyard Lifts',184],['W-111','Courtyard Lifts',184],['E-121','Tapal Stairs',46],['C-109','Tapal Stairs',98],['E-101','Tapal Stairs',250],['Reception Lifts','Reception Stairs',65],['Reception Stairs','Entrance Stairs',42],['Entrance Stairs','E-101',165],['Entrance Stairs','C-109',199],['W-118','Amphi Stairs',104],['W-111','Amphi Stairs',104],['E-100','Reception Lifts',93],['E-100','Reception Stairs',64],['E-100','Entrance Stairs',101]['Courtyard Lifts','W-321',39],['Courtyard Lifts','Courtyard Stairs',60]
-
-lg_lecture_rooms = ['C-015','E-011','E-012','E-002']
-gf_lecture_rooms=['E-121','C-109','E-101','E-100']
-ff_lecture_rooms = ['W-243','W-242','W-234','C-200','N-220','N-219','E-220','E-215']
-sf_lecture_rooms=['W-321']   
-lg_labs = ['E-010','E-003','C-007','C-004','C-001','C-025']
-gf_labs = ['W-121','W-118','W-111','W-114','W-110','W-100']
-ff_labs = ['E-226','W-244']
-sf_labs = ['W-311']     
-lg_staircases_and_lifts = ['Reception Stairs','Amphi Stairs','Entrance Stairs','Tapal Stairs','Ramp','Courtyard Stairs','Courtyard Lifts','Reception Lifts']
-gf_staircases_and_lifts = ['Reception Stairs','Amphi Stairs','Entrance Stairs','Tapal Stairs','Ramp','Vending Machine Stairs','Courtyard Stairs','Courtyard Lifts','Reception Lifts']
-ff_staircases_and_lifts = ['Reception Stairs','Vending Machine Stairs','Courtyard Stairs','Courtyard Lifts','Reception Lifts']
-sf_staircases_and_lifts = ['Courtyard Stairs','Courtyard Lifts']
