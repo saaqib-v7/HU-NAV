@@ -1,2 +1,4 @@
 # HU-NAV
 This is a project I made for my Data Structures &amp; Algorithm course. In this, I have used Dijkstra's Algorithm to find the shortest distance between two points and the output is displayed in the form of a graph.
+You will need to install networkx, matplotlib, and tkinter libraries on your machine. After you run the program, it will ask you to input the places 'from' where you wanna go 'to'. After you give it the needed input, it will show you result in the text format, then a new window will appear, and after you click show map, you will receive the output in a new window, in the form of a graph, with the shortest path highlighted in RED.
+Thank you.
